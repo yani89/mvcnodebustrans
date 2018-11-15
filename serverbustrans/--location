@@ -1,0 +1,20 @@
+*   Trying 103.78.73.116...
+* TCP_NODELAY set
+* Connected to crop.jakarta.go.id (103.78.73.116) port 80 (#0)
+> GET /ajax/apps_get_tj.php HTTP/1.1
+> Host: crop.jakarta.go.id
+> User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+> Accept: */*
+> Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+> Accept-Language: en-US,en;q=0.8
+> 
+< HTTP/1.1 200 OK
+< Date: Thu, 15 Nov 2018 04:00:55 GMT
+< Access-Control-Allow-Origin: *
+< Content-Type: application/json; charset=UTF-8
+< Set-Cookie: TS011f46e3=0181e0c80aeb8be4dbe95dd38ecd3ee0217aa30e75434bb62db2ffdb910da699b1e1ea94331b6687afe09c92d72e417086f6cb737b; Path=/; Domain=.crop.jakarta.go.id
+< Set-Cookie: TS518ba6e9_27=086332a3cdab2000d19432b1a6ce450c27dc8b8acf13f95c4d9b65871dae143c4c53999e7235f58708b8e065521120001e897682174a823c9fd54057c2ac8558f3ba7bf2a5c104a671084f21b42ba2e7;Path=/
+< Transfer-Encoding: chunked
+< 
+{ [4927 bytes data]
+* Connection #0 to host crop.jakarta.go.id left intact
